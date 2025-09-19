@@ -1,7 +1,7 @@
 # Goalkeeper Stats
 ## In the Piemier league
 
-## Table Content
+## Table of Content
 - [Overview](#overview)
 - [Tool](#tool)
 - [Data Analysis](#data-analysis)
@@ -23,6 +23,9 @@ WHERE class >= 456;
 ```
 ### Findings
 Canada did the best with 34557 quantity orders contributing 2547759 revenue which is 59% of the total revenue in 2024.
+
+![insight 2](https://github.com/user-attachments/assets/dfeb684e-c70f-469c-8bff-9fc9a1048214) 
+![insight 3](https://github.com/user-attachments/assets/161ed399-5252-4cbb-ae5e-f03cbe7d10db)
 
 ### Recommandation 
 There are some states which are not performing well like califolinia and Washington DC, some marketing is needed to boost these states since they have high population in numbers. 
