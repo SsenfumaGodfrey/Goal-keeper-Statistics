@@ -7,14 +7,14 @@
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
 - [Recommandation](#recommandation)
-#### *Overview* 
+#### *Overview* 🇺🇬 
 kk is the a world wide company that supplies cookers to USA, Canada, Germany and United Kingdom
 for more interactive dashdoard
 #### Tool
 - Excel - data cleaning [*Download Here*](http://miscrof)
 - SQLserver
-- Power BI
-### Data Analysis
+- Power BI [Interacting Dashboards]()
+### Data Analysis 📈
 Included some intresting  code/feature with work
 ```sql
 SELECT class, lectures, Birthday
